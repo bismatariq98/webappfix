@@ -14,13 +14,13 @@ import 'package:webappfixer/webViewExample.dart';
 // String selectedUrl = '30minutesfix.com.au';
 
 // // ignore: prefer_collection_literals
-// final Set<JavascriptChannel> jsChannels = [
-//   JavascriptChannel(
-//       name: 'Print',
-//       onMessageReceived: (JavascriptMessage message) {
-//         print(message.message);
-//       }),
-// ].toSet();
+final Set<JavascriptChannel> jsChannels = [
+  JavascriptChannel(
+      name: 'Print',
+      onMessageReceived: (JavascriptMessage message) {
+        print(message.message);
+      }),
+].toSet();
 
 // Future<void> _firebaseMessagingBackgroundHandler(RemoteMessage message) async {
  
