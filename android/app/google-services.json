@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149341886888",
+    "project_id": "fixer-2c377",
+    "storage_bucket": "fixer-2c377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149341886888:android:65c611e17434419731659d",
+        "android_client_info": {
+          "package_name": "com.example.webappfixernew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149341886888-dndos9skjcqh3ra3pt4kjbhjrl615o19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyOVM18Bq-us_wLPLfWHq4nl4YiMLF-2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149341886888-dndos9skjcqh3ra3pt4kjbhjrl615o19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
